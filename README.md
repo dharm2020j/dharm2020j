@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharm2020j
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning cloud and virtualization
-- 💞️ I’m looking to collaborate on school bus management software
+- 💞️ I’m looking to collaborate on browser for a small organisation
 - 📫 How to reach me ...
 
 <!---
